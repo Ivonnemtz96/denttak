@@ -3,14 +3,13 @@
         <div class="index2-banner-shape w-100 float-left">
             <div class="container">
                 <div class="banner2-con text-center">
-                    <span class="d-block" data-aos="fade-up" data-aos-duration="700">Welcome To The Medunit</span>
-                    <h1 data-aos="fade-up" data-aos-duration="700">Quality & Healthy Dentistry
-                        For Your Family</h1>
-                    <p data-aos="fade-up" data-aos-duration="700">Doidunt eget semper nec ruam sea hendrerit morbi aeu
-                        feliseao augue pellentesue <br> consectetur
-                        veniam morbi acer.</p>
+                    <span class="d-block" data-aos="fade-up" data-aos-duration="700">Nuestro compromiso es ayudarte a sonreír sin miedo</span>
+                    <h1 data-aos="fade-up" data-aos-duration="700">Denttak</h1>
+                    <p data-aos="fade-up" data-aos-duration="700">
+                        Expertos en el cuidado dental con la mejor tecnología en nuestros tratamientos.
+                    </p>
                     <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
-                        <a href="contact.html">Book an Appointment</a>
+                        <a href="contact.html">Agendar una cita</a>
                     </div>
                 </div>
                 <div class="social-links">
@@ -43,8 +42,8 @@
     <section class="service-main-section w-100 float-left padding-top padding-bottom">
         <div class="container">
             <div class="generic-title text-center">
-                <span class="small-text" data-aos="fade-up" data-aos-duration="700">What We Offer</span>
-                <h2 class="mb-0" data-aos="fade-up" data-aos-duration="700">Explore Our Services</h2>
+                <span class="small-text" data-aos="fade-up" data-aos-duration="700">¿Qué ofrecemos?</span>
+                <h2 class="mb-0" data-aos="fade-up" data-aos-duration="700">Nuestros servicios</h2>
             </div>
             <div class="index2-service-slider" data-aos="fade-up" data-aos-duration="700">
                 <div id="owl-carouselone" class="owl-carousel owl-theme">
@@ -56,7 +55,7 @@
                             <h4>Root Canals</h4>
                             <p>Duis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -67,7 +66,7 @@
                             <h4>White Fillings</h4>
                             <p>Guis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -78,7 +77,7 @@
                             <h4>Dental Care</h4>
                             <p>Nuis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -89,7 +88,7 @@
                             <h4>Restorative Dentistry</h4>
                             <p>Muis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -100,7 +99,7 @@
                             <h4>Root Canals</h4>
                             <p>Duis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -111,7 +110,7 @@
                             <h4>White Fillings</h4>
                             <p>Guis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -122,7 +121,7 @@
                             <h4>Dental Care</h4>
                             <p>Nuis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -133,7 +132,7 @@
                             <h4>Restorative Dentistry</h4>
                             <p>Muis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -144,7 +143,7 @@
                             <h4>Root Canals</h4>
                             <p>Duis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -155,7 +154,7 @@
                             <h4>White Fillings</h4>
                             <p>Guis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -166,7 +165,7 @@
                             <h4>Dental Care</h4>
                             <p>Nuis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -177,7 +176,7 @@
                             <h4>Restorative Dentistry</h4>
                             <p>Muis aute irure dolor
                                 reprehenderit...</p>
-                            <a href="services.html">Read More<i class="fas fa-angle-right"></i></a>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -191,14 +190,14 @@
             <div class="index2-about-con">
                 <div class="index2-about-txt-con">
                     <div class="generic-title">
-                        <span class="d-block small-text" data-aos="fade-up" data-aos-duration="700">About Us</span>
-                        <h2 data-aos="fade-up" data-aos-duration="700">A Better Life Starts with <br>
-                            a Beautiful Smile</h2>
+                        <span class="d-block small-text" data-aos="fade-up" data-aos-duration="700">Contamos con la mejor tecnología</span>
+                        <h2 data-aos="fade-up" data-aos-duration="700">
+                            Denttak, tu mejor opción
+                        </h2>
                     </div>
-                    <p data-aos="fade-up" data-aos-duration="700">Quis nostrud exercitation ullamco laboris nisi aut
-                        aliquio modo
-                        consequat ruis aute irure dolor in reprehenderit in voluptate velit
-                        esse cillum fugiat dolore.</p>
+                    <p data-aos="fade-up" data-aos-duration="700">
+                        
+                    </p>
                     <ul class="list-unstyled" data-aos="fade-up" data-aos-duration="700">
                         <li class="position-relative"><i class="fas fa-check-circle"></i>Malesuada dictum neaue</li>
                         <li class="position-relative"><i class="fas fa-check-circle"></i>Ralesuada dictum neaue</li>
@@ -852,95 +851,3 @@
             referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <!-- MAP SECTION END -->
-    <!-- FOOTER SECTION START -->
-    <section class="footer-main-section w-100 float-left position-relative">
-        <div class="container">
-            <div class="subscribe-con d-flex">
-                <h4>Subscribe To Our <br>
-                    Newsletter</h4>
-                <div class="form-sec">
-                    <input type="email" name="email" id="mail" placeholder="Your Email Address:">
-                    <button type="submit" id="submit" class="sign-up-btn">Sign Up Now</button>
-                </div>
-            </div>
-            <div class="footer-inner-sec">
-                <div class="footer-boxes">
-                    <div class="footer-logo-con">
-                        <a href="index.html">
-                            <figure>
-                                <img src="assets/images/logo.png" alt="logo">
-                            </figure>
-                        </a>
-                        <p>Deleniti aeue corrupti quos dolores quas
-                            tias excepturi sint occaecati rupiditate non
-                            similique sunt incidunt...</p>
-                        <div class="social-links">
-                            <ul class="list-unstyled mb-0 d-flex ">
-                                <li class="d-flex justify-content-center align-items-center"><a
-                                        href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li class="d-flex justify-content-center align-items-center"><a
-                                        href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                            class="fab fa-twitter"></i></a></li>
-                                <li class="d-flex justify-content-center align-items-center"><a
-                                        href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3Fnext%3D%252F%26__coig_login%3D1"><i
-                                            class="fab fa-instagram"></i></a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-text-boxes">
-                    <h4>About Us</h4>
-                    <ul class="mb-0 list-unstyled">
-                        <li class="position-relative"><a href="services.html"><i
-                                    class="fas fa-angle-right"></i>Services</a></li>
-                        <li class="position-relative"><a href="about.html"><i class="fas fa-angle-right"></i>About
-                                us</a></li>
-                        <li class="position-relative"><a href="single-blog.html"><i
-                                    class="fas fa-angle-right"></i>Blog</a></li>
-                        <li class="position-relative"><a href="pricing.html"><i
-                                    class="fas fa-angle-right"></i>Pricing</a></li>
-                        <li class="position-relative mb-0"><a href="contact.html"><i
-                                    class="fas fa-angle-right"></i>Contact us</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="footer-text-boxes">
-                    <h4>Our Services</h4>
-                    <ul class="mb-0 list-unstyled">
-                        <li class="position-relative"><a href="services.html"><i class="fas fa-angle-right"></i>Couple
-                                Therapy</a>
-                        </li>
-                        <li class="position-relative"><a href="services.html"><i class="fas fa-angle-right"></i>Family
-                                Counseling</a></li>
-                        <li class="position-relative"><a href="services.html"><i class="fas fa-angle-right"></i>Anxiety
-                                Disorder</a>
-                        </li>
-                        <li class="position-relative"><a href="services.html"><i class="fas fa-angle-right"></i>Personal
-                                Meeting</a>
-                        </li>
-                        <li class="position-relative mb-0"><a href="services.html"><i
-                                    class="fas fa-angle-right"></i>Dating &
-                                Relationship</a></li>
-                    </ul>
-                </div>
-                <div class="footer-text-boxes">
-                    <h4>Contact Info</h4>
-                    <ul class="mb-0 list-unstyled">
-                        <li class="position-relative"><a href="tel:+61383766284"><i class="fas fa-phone-alt"></i>+613
-                                8376 6284</a></li>
-                        <li class="position-relative"><a href="mailto:Info@medunit.om"><i
-                                    class="fas fa-envelope"></i>Info@medunit.om</a></li>
-                        <li class="position-relative mb-0"><i class="fas fa-map-marker-alt"></i>21 King Street
-                            Melbourne,<br> 3000, Australia</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
-    <div class="copy-rihgt-sec w-100 float-left text-center">
-        <p class="mb-0">Medunit copyright © 2023. All Rights Reserved.</p>
-    </div>
-    <a id="button"></a>
-    <!-- FOOTER SECTION END -->
