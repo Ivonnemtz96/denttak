@@ -3,7 +3,8 @@
         <div class="index2-banner-shape w-100 float-left">
             <div class="container">
                 <div class="banner2-con text-center">
-                    <span class="d-block" data-aos="fade-up" data-aos-duration="700">Nuestro compromiso es ayudarte a sonreír sin miedo</span>
+                    <span class="d-block" data-aos="fade-up" data-aos-duration="700">Nuestro compromiso es ayudarte a
+                        sonreír sin miedo</span>
                     <h1 data-aos="fade-up" data-aos-duration="700">Denttak</h1>
                     <p data-aos="fade-up" data-aos-duration="700">
                         Expertos en el cuidado dental con la mejor tecnología en nuestros tratamientos.
@@ -190,13 +191,14 @@
             <div class="index2-about-con">
                 <div class="index2-about-txt-con">
                     <div class="generic-title">
-                        <span class="d-block small-text" data-aos="fade-up" data-aos-duration="700">Contamos con la mejor tecnología</span>
+                        <span class="d-block small-text" data-aos="fade-up" data-aos-duration="700">Contamos con la
+                            mejor tecnología</span>
                         <h2 data-aos="fade-up" data-aos-duration="700">
                             Denttak, tu mejor opción
                         </h2>
                     </div>
                     <p data-aos="fade-up" data-aos-duration="700">
-                        
+
                     </p>
                     <ul class="list-unstyled" data-aos="fade-up" data-aos-duration="700">
                         <li class="position-relative"><i class="fas fa-check-circle"></i>Malesuada dictum neaue</li>
@@ -227,47 +229,44 @@
         <div class="padding-top padding-bottom contact-inner-con position-relative">
             <div class="container">
                 <div class="contact-form ">
-                    <span class="sub-txt d-block" data-aos="fade-up" data-aos-duration="700">Book With Us Now</span>
-                    <h2 data-aos="fade-up" data-aos-duration="700">Get an Appointment</h2>
-                    <p data-aos="fade-up" data-aos-duration="700">Molestiae non recusandae itaque earum rerum sarien.
+                    <span class="sub-txt d-block" data-aos="fade-up" data-aos-duration="700">¡Agenda tu cita
+                        ahora!</span>
+                    <h2 data-aos="fade-up" data-aos-duration="700">Denttak</h2>
+                    <p data-aos="fade-up" data-aos-duration="700">Uno de nuestros asesores se pondrá en contacto contigo
                     </p>
                     <form class="form-box" method="post" id="contactpage">
                         <ul class="list-unstyled ">
                             <li data-aos="fade-up" data-aos-duration="700">
-                                <input type="text" name="fname" id="fname" placeholder="Your Name:">
+                                <input type="text" name="fname" id="fname" placeholder="Nombre:">
                                 <i class="fas fa-user"></i>
                             </li>
                             <li data-aos="fade-up" data-aos-duration="700">
-                                <input type="email" placeholder="Email address:" name="email" id="email">
+                                <input type="text" name="fname" id="fname" placeholder="Apellido:">
+                                <i class="fas fa-user"></i>
+                            </li>
+                            <li data-aos="fade-up" data-aos-duration="700">
+                                <input type="email" placeholder="Correo:" name="email" id="email">
                                 <i class="fas fa-envelope"></i>
                             </li>
                             <li data-aos="fade-up" data-aos-duration="700">
-                                <select name="department" id="department">
-                                    <option value="department">Choose department</option>
-                                    <option value="department1">department 1</option>
-                                    <option value="department2">department 2</option>
-                                    <option value="department3">department 3</option>
-                                </select>
+                                <input type="tel" name="phone" id="phone" placeholder="Teléfono">
+                                <i class="fas fa-phone-alt"></i>
                             </li>
                             <li data-aos="fade-up" data-aos-duration="700">
-                                <select name="doctor" id="doctor">
-                                    <option value="doctor">Choose doctor</option>
-                                    <option value="doctor1">doctor 1</option>
-                                    <option value="doctor2">doctor 2</option>
-                                    <option value="doctor3">doctor 3</option>
+                                <select name="department" id="department">
+                                    <option value="department">Sucursal</option>
+                                    <option value="department1">San José del Cabo</option>
+                                    <option value="department2">Cabo San Lucas</option>
                                 </select>
                             </li>
                             <li data-aos="fade-up" data-aos-duration="700">
                                 <input placeholder="Date & Time" type="date" id="date">
                             </li>
-                            <li data-aos="fade-up" data-aos-duration="700">
-                                <input type="tel" name="phone" id="phone" placeholder="Phone Number">
-                                <i class="fas fa-phone-alt"></i>
-                            </li>
+
                         </ul>
                         <div class="submit-btn" data-aos="fade-up" data-aos-duration="700">
                             <button type="submit" id="submit">
-                                Make an Appointment
+                                Revisar disponibilidad
                             </button>
                         </div>
                     </form>
@@ -280,8 +279,9 @@
     <section class="index2-project-section project-main-section w-100 float-left padding-top padding-bottom">
         <div class="container">
             <div class="generic-title text-center">
-                <span class="small-text" data-aos="fade-up" data-aos-duration="700">Driven Results</span>
-                <h2 class="mb-0" data-aos="fade-up" data-aos-duration="700">Before & After</h2>
+                <span class="small-text" data-aos="fade-up" data-aos-duration="700">Compromiso con nuestro
+                    trabajo</span>
+                <h2 class="mb-0" data-aos="fade-up" data-aos-duration="700">Nuestros Resultados</h2>
             </div>
             <div id="owl-carouseltwo" class="owl-carousel owl-theme" data-aos="fade-up" data-aos-duration="700">
                 <div class="item">
@@ -384,245 +384,27 @@
         </div>
     </section>
     <!-- PROJECT SECTION END -->
-    <!-- PROJECT SECTION START -->
-    <section class="dentists-main-section w-100 float-left padding-top padding-bottom light-bg">
-        <div class="container">
-            <div class="generic-title text-center">
-                <span class="small-text" data-aos="fade-up" data-aos-duration="700">Team Members</span>
-                <h2 class="mb-0" data-aos="fade-up" data-aos-duration="700">Meet Our Dentists</h2>
-            </div>
-            <div id="owl-carouselthree" class="owl-carousel owl-theme" data-aos="fade-up" data-aos-duration="700">
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img1.jpg" alt="dentist-img1">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Alice Waters</h4>
-                            <span class="d-block">Professional Dentist</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img2.jpg" alt="dentist-img2">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Jamie Oliver</h4>
-                            <span class="d-block">Dentist Practitioner</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img3.jpg" alt="dentist-img3">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Clare Smyth</h4>
-                            <span class="d-block">Assistant Doctor</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img1.jpg" alt="dentist-img1">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Alice Waters</h4>
-                            <span class="d-block">Professional Dentist</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img2.jpg" alt="dentist-img2">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Jamie Oliver</h4>
-                            <span class="d-block">Dentist Practitioner</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img3.jpg" alt="dentist-img3">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Clare Smyth</h4>
-                            <span class="d-block">Assistant Doctor</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img1.jpg" alt="dentist-img1">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Alice Waters</h4>
-                            <span class="d-block">Professional Dentist</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img2.jpg" alt="dentist-img2">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Jamie Oliver</h4>
-                            <span class="d-block">Dentist Practitioner</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="dentist-box text-center">
-                        <figure class="mb-0">
-                            <img src="assets/images/dentist-img3.jpg" alt="dentist-img3">
-                        </figure>
-                        <div class="dentist-details">
-                            <h4>Clare Smyth</h4>
-                            <span class="d-block">Assistant Doctor</span>
-                            <div class="social-links">
-                                <ul class="list-unstyled mb-0 d-flex justify-content-center">
-                                    <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
-                                    </li>
-                                    <li><a
-                                            href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                                class="fab fa-twitter"></i></a></li>
-                                    <li class="mb-0"><a href="https://www.linkedin.com/login"><i
-                                                class="fab fa-linkedin-in"></i></a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- PROJECT SECTION END -->
     <!-- INQUIRY SECTION START -->
     <div class="inquiry-section w-100 float-left">
         <div class="counter-outer-layer">
             <div class="container">
                 <div class="inquiry-inner-sec">
                     <div class="inquiry-text-sec">
-                        <span class="d-block" data-aos="fade-up" data-aos-duration="700">Need Emergency</span>
-                        <h2 data-aos="fade-up" data-aos-duration="700">Don’t Be Hesitate To Contact Us</h2>
-                        <p data-aos="fade-up" data-aos-duration="700">Quis nostrud exercitation ullamco laboris nisi aut
-                            ali
-                            consequat ruis aute irure dolor in reprehenderit in vo
-                            esse cillum fugiat dolore nostrum exercitationem ulla
-                            corporis eum pariatur.</p>
+                        <span class="d-block" data-aos="fade-up" data-aos-duration="700">Contamos con la mejor
+                            tecnología</span>
+                        <h2 data-aos="fade-up" data-aos-duration="700">Denttak</h2>
+                        <p data-aos="fade-up" data-aos-duration="700">
+                            En Denttak Clínica Dental te ofrecemos los
+                            mejores tratamientos de ortodoncia, como la ortodoncia
+                            invisible y la ortodoncia estética.
+                        </p>
                         <div class="emergency-contact" data-aos="fade-up" data-aos-duration="700">
                             <i class="fas fa-phone-alt"></i>
                             <ul class="list-unstyled mb-0">
                                 <li>
-                                    <h4>For Any Emergency Case</h4>
+                                    <h4>¿Tienes alguna duda o pregunta?</h4>
                                 </li>
-                                <li>Call us at: <a href="tel:+0123456789">+012 (345) 6789</a></li>
+                                <li>Márcanos: <a href="tel:+526243581370">+52 624 358 1370</a></li>
                             </ul>
                         </div>
                     </div>
@@ -631,13 +413,13 @@
                             <figure>
                                 <img src="assets/images/trophy.png" alt="trophy">
                             </figure>
-                            <p>We Have <span class="d-inline-block">50+</span> Winning Awards</p>
+                            <p>Con más de <span class="d-inline-block">50</span> tratamientos realizados</p>
                         </div>
                         <figure class="mb-0 inquiry-center-img">
                             <img src="assets/images/retractor-img.jpg" alt="retractor-img">
                         </figure>
                         <div class="inquiry-bottom-box">
-                            <span class="d-block">Professional Skills</span>
+                            <span class="d-block">Dentistas Profesionales</span>
                             <figure class="mb-0">
                                 <img src="assets/images/graph-img.png" alt="graph-img">
                             </figure>
@@ -652,8 +434,8 @@
     <section class="patient-reviews-sec w-100 float-left padding-top padding-bottom">
         <div class="container">
             <div class="generic-title text-center">
-                <span class="small-text d-block" data-aos="fade-up" data-aos-duration="700">Testimonials</span>
-                <h2 data-aos="fade-up" data-aos-duration="700">What Our Patients are Saying</h2>
+                <span class="small-text d-block" data-aos="fade-up" data-aos-duration="700">Opiniones</span>
+                <h2 data-aos="fade-up" data-aos-duration="700">¿Qué dicen nuestros pacientes?</h2>
             </div>
             <div id="owl-carouselfive" class="owl-carousel owl-theme" data-aos="fade-up" data-aos-duration="700">
                 <div class="item">
@@ -670,7 +452,7 @@
                                 <img src="assets/images/patient-img.png" alt="patient-img">
                             </figure>
                             <ul class="list-unstyled mb-0">
-                                <li><span class="d-block">Kristin Watson</span></li>
+                                <li><span class="d-block">Cliente 1</span></li>
                                 <li>Happy Patient</li>
                             </ul>
                         </div>
@@ -690,7 +472,7 @@
                                 <img src="assets/images/patient-img2.png" alt="patient-img2">
                             </figure>
                             <ul class="list-unstyled mb-0">
-                                <li><span class="d-block">Eauter Renith</span></li>
+                                <li><span class="d-block">Cliente 2</span></li>
                                 <li>Happy Patient</li>
                             </ul>
                         </div>
@@ -710,7 +492,7 @@
                                 <img src="assets/images/patient-img.png" alt="patient-img">
                             </figure>
                             <ul class="list-unstyled mb-0">
-                                <li><span class="d-block">Kristin Watson</span></li>
+                                <li><span class="d-block">Cliente 3</span></li>
                                 <li>Happy Patient</li>
                             </ul>
                         </div>
@@ -730,7 +512,7 @@
                                 <img src="assets/images/patient-img2.png" alt="patient-img2">
                             </figure>
                             <ul class="list-unstyled mb-0">
-                                <li><span class="d-block">Eauter Renith</span></li>
+                                <li><span class="d-block">Cliente 4</span></li>
                                 <li>Happy Patient</li>
                             </ul>
                         </div>
@@ -750,7 +532,7 @@
                                 <img src="assets/images/patient-img.png" alt="patient-img">
                             </figure>
                             <ul class="list-unstyled mb-0">
-                                <li><span class="d-block">Kristin Watson</span></li>
+                                <li><span class="d-block">Cliente 5</span></li>
                                 <li>Happy Patient</li>
                             </ul>
                         </div>
@@ -770,7 +552,7 @@
                                 <img src="assets/images/patient-img2.png" alt="patient-img2">
                             </figure>
                             <ul class="list-unstyled mb-0">
-                                <li><span class="d-block">Eauter Renith</span></li>
+                                <li><span class="d-block">Cliente 6</span></li>
                                 <li>Happy Patient</li>
                             </ul>
                         </div>
@@ -784,8 +566,8 @@
     <section class="index2-blog-section w-100 float-left padding-top padding-bottom light-bg">
         <div class="container">
             <div class="generic-title text-center">
-                <span class="small-text d-block" data-aos="fade-up" data-aos-duration="700">Articles & Tips</span>
-                <h2 data-aos="fade-up" data-aos-duration="700">Latest News & Blogs</h2>
+                <span class="small-text d-block" data-aos="fade-up" data-aos-duration="700">Nuestras novedades</span>
+                <h2 data-aos="fade-up" data-aos-duration="700">Blog</h2>
             </div>
             <div class="index2-blog-inner-con">
                 <div class="index2-blog-box" data-aos="fade-up" data-aos-duration="700">
@@ -846,7 +628,7 @@
     <!-- MAP SECTION START -->
     <div class="index2-map-section w-100 float-left">
         <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d331.28489877721745!2d144.95688568074652!3d-37.81977238709575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d52754eaecb%3A0x22f367daf52cbd47!2s21%20King%20St%2C%20Melbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2s!4v1696843179791!5m2!1sen!2s"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6730.403680487196!2d-109.72638865659425!3d23.105198191302232!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5be0d52cea3d%3A0xbe564dda6c9115d4!2sDenttak%20Cl%C3%ADnica%20Dental!5e0!3m2!1ses-419!2smx!4v1702584798436!5m2!1ses-419!2smx"
             width="600" height="578" style="border:0;" allowfullscreen="" loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
