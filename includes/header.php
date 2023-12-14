@@ -16,21 +16,21 @@
             <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                 <ul class="navbar-nav">
                     <li class="nav-item dropdown">
-                        <a class="nav-link p-0" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link p-0" href="index.php" role="button" aria-haspopup="true" aria-expanded="false">
                             Inicio
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="about.html">Clínica</a>
+                        <a class="nav-link p-0" href="clinica.php">Clínica</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="services.html">Tratamientos</a>
+                        <a class="nav-link p-0" href="tratamientos.php">Tratamientos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="services.html">Blog</a>
+                        <a class="nav-link p-0" href="blog.php">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link p-0" href="contact.html">Contacto</a>
+                        <a class="nav-link p-0" href="contacto.php">Contacto</a>
                     </li>
                 </ul>
                 <div class="header-contact d-flex align-items-center">
