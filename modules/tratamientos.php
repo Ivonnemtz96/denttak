@@ -1,14 +1,11 @@
 <section class="project-banner sub-banner-section w-100 float-left d-flex align-items-center">
     <div class="container">
         <div class="sub-banner-inner-con text-center">
-            <h1 data-aos="fade-up" data-aos-duration="700">Projects</h1>
-            <p data-aos="fade-up" data-aos-duration="700">Eoidunt eget semper nec ruam sed hendrerit morbi aeu feliseao
-                augue <br>
-                pellentesue veniam morbi acer.</p>
+            <h1 data-aos="fade-up" data-aos-duration="700">Tratamientos Dentales</h1>
             <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-duration="700">
                 <ol class="breadcrumb d-inline-block mb-0">
-                    <li class="breadcrumb-item d-inline-block"><a href="index.html">Home</a></li>
-                    <li class="breadcrumb-item active text-white d-inline-block" aria-current="page">Cases</li>
+                    <li class="breadcrumb-item d-inline-block"><a href="index.php">Inicio</a></li>
+                    <li class="breadcrumb-item active text-white d-inline-block" aria-current="page">Tratamientos</li>
                 </ol>
             </nav>
         </div>
@@ -19,8 +16,8 @@
 <section class="projects-section w-100 float-left padding-top padding-bottom light-bg">
     <div class="container">
         <div class="generic-title text-center">
-            <span class="small-text" data-aos="fade-up" data-aos-duration="700">Latest Projects</span>
-            <h2 data-aos="fade-up" data-aos-duration="700">Explore Our Latest Case Studies</h2>
+            <span class="small-text" data-aos="fade-up" data-aos-duration="700">Conozca nuestros servicios</span>
+            <h2 data-aos="fade-up" data-aos-duration="700">Tratamientos dentales</h2>
         </div>
         <div class="projects-outer-con">
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
@@ -30,11 +27,9 @@
                     </figure>
                 </div>
                 <div class="project-detail">
-                    <span class="d-block">Couple Problem</span>
-                    <h4>Mental Consult</h4>
-                    <p>Nostrud exercitation
-                        aute irure...</p>
-                    <a href="services.html"><i class="fas fa-angle-right"></i></a>
+                    <h4>Ortodoncia</h4>
+                    <p>Conoce las diferencias de nuestro tratamiento</p>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
@@ -44,11 +39,9 @@
                     </figure>
                 </div>
                 <div class="project-detail">
-                    <span class="d-block">Individual</span>
-                    <h4>Personal Meeting</h4>
-                    <p>Gostrud exercitation
-                        aute irure...</p>
-                    <a href="services.html"><i class="fas fa-angle-right"></i></a>
+                    <h4>Estética Dental</h4>
+                    <p>¿Quieres conocer más de este tratamiento?</p>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
@@ -58,11 +51,9 @@
                     </figure>
                 </div>
                 <div class="project-detail">
-                    <span class="d-block">Frustation</span>
-                    <h4>Depression</h4>
-                    <p>Eostrud exercitation
-                        aute irure...</p>
-                    <a href="services.html"><i class="fas fa-angle-right"></i></a>
+                    <h4>Implantes Dentales</h4>
+                    <p>Tratamientos adaptados a tu necesidad.</p>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
@@ -72,11 +63,10 @@
                     </figure>
                 </div>
                 <div class="project-detail">
-                    <span class="d-block">Couple</span>
-                    <h4>Relationship</h4>
+                    <h4>Cirugía Oral</h4>
                     <p>Nostrud exercitation
                         aute irure...</p>
-                    <a href="services.html"><i class="fas fa-angle-right"></i></a>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
@@ -86,11 +76,10 @@
                     </figure>
                 </div>
                 <div class="project-detail">
-                    <span class="d-block">Individual</span>
-                    <h4>Rude Behaviour</h4>
+                    <h4>Protésis dentales</h4>
                     <p>Gostrud exercitation
                         aute irure...</p>
-                    <a href="services.html"><i class="fas fa-angle-right"></i></a>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
@@ -100,13 +89,56 @@
                     </figure>
                 </div>
                 <div class="project-detail">
-                    <span class="d-block">Depressed</span>
-                    <h4>Grief & Loss</h4>
+                    <h4>Endodoncias</h4>
                     <p>Eostrud exercitation
                         aute irure...</p>
-                    <a href="services.html"><i class="fas fa-angle-right"></i></a>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
+
+            <div class="project-box" data-aos="fade-up" data-aos-duration="700">
+                <div class="project-img">
+                    <figure class="mb-0">
+                        <img src="assets/images/project-img6.jpg" alt="project-img6">
+                    </figure>
+                </div>
+                <div class="project-detail">
+                    <h4>Periodoncia</h4>
+                    <p>Eostrud exercitation
+                        aute irure...</p>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                </div>
+            </div>
+
+            <div class="project-box" data-aos="fade-up" data-aos-duration="700">
+                <div class="project-img">
+                    <figure class="mb-0">
+                        <img src="assets/images/project-img6.jpg" alt="project-img6">
+                    </figure>
+                </div>
+                <div class="project-detail">
+                    <h4>Odontopediatría</h4>
+                    <p>Eostrud exercitation
+                        aute irure...</p>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                </div>
+            </div>
+
+
+            <div class="project-box" data-aos="fade-up" data-aos-duration="700">
+                <div class="project-img">
+                    <figure class="mb-0">
+                        <img src="assets/images/project-img6.jpg" alt="project-img6">
+                    </figure>
+                </div>
+                <div class="project-detail">
+                    <h4>Odontología Convencional</h4>
+                    <p>Eostrud exercitation
+                        aute irure...</p>
+                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
@@ -121,29 +153,29 @@
                         <figure>
                             <img src="assets/images/counter-img1.png" alt="counter-img1">
                         </figure>
-                        <div class="count d-inline-block">2850</div>
-                        <span class="d-block client-status">Psycologist</span>
+                        <div class="count d-inline-block">120</div>
+                        <span class="d-block client-status">Pacientes</span>
                     </li>
                     <li>
                         <figure>
                             <img src="assets/images/counter-img2.png" alt="counter-img2">
                         </figure>
-                        <div class="count d-inline-block">1245</div>
-                        <span class="d-block client-status">Branches</span>
+                        <div class="count d-inline-block">2</div>
+                        <span class="d-block client-status">Sucursales</span>
                     </li>
                     <li>
                         <figure>
                             <img src="assets/images/counter-img3.png" alt="counter-img3">
                         </figure>
-                        <div class="count d-inline-block">3358</div>
-                        <span class="d-block client-status">Patients</span>
+                        <div class="count d-inline-block">15</div>+
+                        <span class="d-block client-status">Tratamientos</span>
                     </li>
                     <li>
                         <figure>
                             <img src="assets/images/counter-img4.png" alt="counter-img4">
                         </figure>
-                        <div class="count d-inline-block">2496</div>
-                        <span class="d-block client-status">Achievements</span>
+                        <div class="count d-inline-block">100</div>%
+                        <span class="d-block client-status">Satisfacción</span>
                     </li>
                 </ul>
             </div>
@@ -151,108 +183,133 @@
     </div>
 </div>
 <!-- COUNTER SECTION END -->
-<!-- TESTIMONIAL SECTION START -->
-<section
-    class="testimonial-main-sec project-testimonial-con w-100 float-left padding-top position-relative padding-bottom">
+
+<section class="patient-reviews-sec w-100 float-left padding-top padding-bottom">
     <div class="container">
-        <div class="generic-title text-center mb-0">
-            <span class="d-block small-text" data-aos="fade-up" data-aos-duration="700">Testimonials</span>
-            <h2 data-aos="fade-up" data-aos-duration="700">What Our Patients are Saying</h2>
+        <div class="generic-title text-center">
+            <span class="small-text d-block" data-aos="fade-up" data-aos-duration="700">Opiniones</span>
+            <h2 data-aos="fade-up" data-aos-duration="700">¿Qué dicen nuestros pacientes?</h2>
         </div>
-        <div class="testimonial-inner-sec" data-aos="fade-up" data-aos-duration="700">
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                </ol>
-                <div class="carousel-inner carousel-fade">
-                    <div class="carousel-item active text-center">
-                        <div class="review-details-box">
-                            <figure class="d-inline-block">
-                                <img src="assets/images/stars-img.png" alt="stars-img">
-                            </figure>
-                            <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                dolores
-                                aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                recusandae itarue earum rerum tenetur a saiente delectus.”</p>
-                            <div class="customer-status">
-                                <h5>Jonathan Andrew</h5>
-                                <span class="d-block">Happy Customer</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item text-center">
-                        <div class="review-details-box">
-                            <figure class="d-inline-block">
-                                <img src="assets/images/stars-img.png" alt="stars-img">
-                            </figure>
-                            <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                dolores
-                                aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                recusandae itarue earum rerum tenetur a saiente delectus.”</p>
-                            <div class="customer-status">
-                                <h5>Alice Waters</h5>
-                                <span class="d-block">Happy Customer</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item text-center">
-                        <div class="review-details-box">
-                            <figure class="d-inline-block">
-                                <img src="assets/images/stars-img.png" alt="stars-img">
-                            </figure>
-                            <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                dolores
-                                aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                recusandae itarue earum rerum tenetur a saiente delectus.”</p>
-                            <div class="customer-status">
-                                <h5>Jamie Oliver</h5>
-                                <span class="d-block">Happy Customer</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item text-center">
-                        <div class="review-details-box">
-                            <figure class="d-inline-block">
-                                <img src="assets/images/stars-img.png" alt="stars-img">
-                            </figure>
-                            <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                dolores
-                                aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                recusandae itarue earum rerum tenetur a saiente delectus.”</p>
-                            <div class="customer-status">
-                                <h5>Clare Smyth</h5>
-                                <span class="d-block">Happy Customer</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item text-center">
-                        <div class="review-details-box">
-                            <figure class="d-inline-block">
-                                <img src="assets/images/stars-img.png" alt="stars-img">
-                            </figure>
-                            <p>“Ignissimos ducimus ui blandiitis praesentium voluptatum deleniti atqui corrupti quos
-                                dolores
-                                aet quas molestias excepturi, sint occaesatii gnissimos ducimus molestiae non <br>
-                                recusandae itarue earum rerum tenetur a saiente delectus.”</p>
-                            <div class="customer-status">
-                                <h5>Hekim Rswana</h5>
-                                <span class="d-block">Happy Customer</span>
-                            </div>
-                        </div>
+        <div id="owl-carouselfive" class="owl-carousel owl-theme" data-aos="fade-up" data-aos-duration="700">
+            <div class="item">
+                <div class="patient-review-box">
+                    <figure>
+                        <img src="assets/images/stars-img.png" alt="stars-img">
+                    </figure>
+                    <p>“Ignissimos ducimus ui blandiitis praesentium voluptau
+                        deleniti atqui corrupti quos dolores aet quas molestias
+                        excepturi, sint occaesatii gnissimos ducimus molestiae
+                        recusandae itarue earum rerum.”</p>
+                    <div class="review-img-box">
+                        <figure class="mb-0">
+                            <img src="assets/images/patient-img.png" alt="patient-img">
+                        </figure>
+                        <ul class="list-unstyled mb-0">
+                            <li><span class="d-block">Cliente 1</span></li>
+                            <li>Cliente satisfecho</li>
+                        </ul>
                     </div>
                 </div>
-                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                </a>
+            </div>
+            <div class="item">
+                <div class="patient-review-box">
+                    <figure>
+                        <img src="assets/images/stars-img.png" alt="stars-img">
+                    </figure>
+                    <p>“Debitis aut rerum necessitatibus saepe eveniet volua
+                        repudiandae sint et molestiae non recusandae Itarue ear
+                        um rerum hic tenetur a sapiente delectus, ut aut reicien
+                        aeris voluptatibus maiores alias.”</p>
+                    <div class="review-img-box">
+                        <figure class="mb-0">
+                            <img src="assets/images/patient-img2.png" alt="patient-img2">
+                        </figure>
+                        <ul class="list-unstyled mb-0">
+                            <li><span class="d-block">Cliente 2</span></li>
+                            <li>Cliente satisfecho</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="patient-review-box">
+                    <figure>
+                        <img src="assets/images/stars-img.png" alt="stars-img">
+                    </figure>
+                    <p>“Ignissimos ducimus ui blandiitis praesentium voluptau
+                        deleniti atqui corrupti quos dolores aet quas molestias
+                        excepturi, sint occaesatii gnissimos ducimus molestiae
+                        recusandae itarue earum rerum.”</p>
+                    <div class="review-img-box">
+                        <figure class="mb-0">
+                            <img src="assets/images/patient-img.png" alt="patient-img">
+                        </figure>
+                        <ul class="list-unstyled mb-0">
+                            <li><span class="d-block">Cliente 3</span></li>
+                            <li>Cliente satisfecho</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="patient-review-box">
+                    <figure>
+                        <img src="assets/images/stars-img.png" alt="stars-img">
+                    </figure>
+                    <p>“Debitis aut rerum necessitatibus saepe eveniet volua
+                        repudiandae sint et molestiae non recusandae Itarue ear
+                        um rerum hic tenetur a sapiente delectus, ut aut reicien
+                        aeris voluptatibus maiores alias.”</p>
+                    <div class="review-img-box">
+                        <figure class="mb-0">
+                            <img src="assets/images/patient-img2.png" alt="patient-img2">
+                        </figure>
+                        <ul class="list-unstyled mb-0">
+                            <li><span class="d-block">Cliente 4</span></li>
+                            <li>Cliente satisfecho</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="patient-review-box">
+                    <figure>
+                        <img src="assets/images/stars-img.png" alt="stars-img">
+                    </figure>
+                    <p>“Ignissimos ducimus ui blandiitis praesentium voluptau
+                        deleniti atqui corrupti quos dolores aet quas molestias
+                        excepturi, sint occaesatii gnissimos ducimus molestiae
+                        recusandae itarue earum rerum.”</p>
+                    <div class="review-img-box">
+                        <figure class="mb-0">
+                            <img src="assets/images/patient-img.png" alt="patient-img">
+                        </figure>
+                        <ul class="list-unstyled mb-0">
+                            <li><span class="d-block">Cliente 5</span></li>
+                            <li>Cliente satisfecho</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="patient-review-box">
+                    <figure>
+                        <img src="assets/images/stars-img.png" alt="stars-img">
+                    </figure>
+                    <p>“Debitis aut rerum necessitatibus saepe eveniet volua
+                        repudiandae sint et molestiae non recusandae Itarue ear
+                        um rerum hic tenetur a sapiente delectus, ut aut reicien
+                        aeris voluptatibus maiores alias.”</p>
+                    <div class="review-img-box">
+                        <figure class="mb-0">
+                            <img src="assets/images/patient-img2.png" alt="patient-img2">
+                        </figure>
+                        <ul class="list-unstyled mb-0">
+                            <li><span class="d-block">Cliente 6</span></li>
+                            <li>Cliente satisfecho</li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
