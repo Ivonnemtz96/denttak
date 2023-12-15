@@ -1,7 +1,7 @@
 <div class="index2-header-con header-main-con w-100 float-left">
     <div class="container-fluid">
         <nav class="navbar navbar-expand-lg navbar-light p-0">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index.php">
                 <figure class="mb-0">
                     <img src="assets/images/logo3.png?=1" alt="Denttak consultorio dental">
                 </figure>
