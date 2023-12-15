@@ -1,9 +1,9 @@
 :root {
     --primary-color: #fff;
     --secondary-color: #232323;
-    --accent: #ee8961;
+    --accent: #039cde;
     --text-color: #7a7a7a;
-    --button-color: #156c5f;
+    --button-color: #00b2a2;
 }
 .single-post01 .post-item-description,
 .post-item.border > .post-item-wrap > .post-item-description{
