@@ -51,44 +51,12 @@
                     <div class="item">
                         <div class="service-slider2 text-center">
                             <figure class="d-inline-block">
-                                <img src="assets/images/service-icon1.png" alt="service-icon1">
-                            </figure>
-                            <h4>Root Canals</h4>
-                            <p>Duis aute irure dolor
-                                reprehenderit...</p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="service-slider2 text-center">
-                            <figure class="d-inline-block">
-                                <img src="assets/images/service-icon2.png" alt="service-icon2">
-                            </figure>
-                            <h4>White Fillings</h4>
-                            <p>Guis aute irure dolor
-                                reprehenderit...</p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="service-slider2 text-center">
-                            <figure class="d-inline-block">
                                 <img src="assets/images/service-icon3.png" alt="service-icon3">
                             </figure>
-                            <h4>Dental Care</h4>
-                            <p>Nuis aute irure dolor
-                                reprehenderit...</p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="service-slider2 text-center">
-                            <figure class="d-inline-block">
-                                <img src="assets/images/service-icon4.png" alt="service-icon4">
-                            </figure>
-                            <h4>Restorative Dentistry</h4>
-                            <p>Muis aute irure dolor
-                                reprehenderit...</p>
+                            <h4>Ortodoncia</h4>
+                            <p>
+                                Transforma tu sonrisa con nuestro experto servicio de ortodoncia.
+                            </p>
                             <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -97,9 +65,10 @@
                             <figure class="d-inline-block">
                                 <img src="assets/images/service-icon1.png" alt="service-icon1">
                             </figure>
-                            <h4>Root Canals</h4>
-                            <p>Duis aute irure dolor
-                                reprehenderit...</p>
+                            <h4>Implantes dentales</h4>
+                            <p>
+                                Recupera tu sonrisa con nuestros implantes dentales.
+                            </p>
                             <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -108,20 +77,10 @@
                             <figure class="d-inline-block">
                                 <img src="assets/images/service-icon2.png" alt="service-icon2">
                             </figure>
-                            <h4>White Fillings</h4>
-                            <p>Guis aute irure dolor
-                                reprehenderit...</p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="service-slider2 text-center">
-                            <figure class="d-inline-block">
-                                <img src="assets/images/service-icon3.png" alt="service-icon3">
-                            </figure>
-                            <h4>Dental Care</h4>
-                            <p>Nuis aute irure dolor
-                                reprehenderit...</p>
+                            <h4>Estética dental</h4>
+                            <p>
+                                Potencia tu sonrisa con nuestra estética dental de calidad.
+                            </p>
                             <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -130,9 +89,10 @@
                             <figure class="d-inline-block">
                                 <img src="assets/images/service-icon4.png" alt="service-icon4">
                             </figure>
-                            <h4>Restorative Dentistry</h4>
-                            <p>Muis aute irure dolor
-                                reprehenderit...</p>
+                            <h4>Cirugía oral</h4>
+                            <p>
+                                Opta por la excelencia en cirugía oral con nuestro experimentado equipo.
+                            </p>
                             <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -141,9 +101,10 @@
                             <figure class="d-inline-block">
                                 <img src="assets/images/service-icon1.png" alt="service-icon1">
                             </figure>
-                            <h4>Root Canals</h4>
-                            <p>Duis aute irure dolor
-                                reprehenderit...</p>
+                            <h4>Prótesis dentales</h4>
+                            <p>
+                                Recupera tu sonrisa completa con nuestras prótesis dentales personalizadas.
+                            </p>
                             <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -152,9 +113,10 @@
                             <figure class="d-inline-block">
                                 <img src="assets/images/service-icon2.png" alt="service-icon2">
                             </figure>
-                            <h4>White Fillings</h4>
-                            <p>Guis aute irure dolor
-                                reprehenderit...</p>
+                            <h4>Endodoncia</h4>
+                            <p>
+                                Salva tu sonrisa con nuestros tratamientos de endodoncia.
+                            </p>
                             <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -163,9 +125,10 @@
                             <figure class="d-inline-block">
                                 <img src="assets/images/service-icon3.png" alt="service-icon3">
                             </figure>
-                            <h4>Dental Care</h4>
-                            <p>Nuis aute irure dolor
-                                reprehenderit...</p>
+                            <h4>Periodoncia</h4>
+                            <p>
+                                Transforma tu salud bucal con nuestros servicios.
+                            </p>
                             <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -174,9 +137,22 @@
                             <figure class="d-inline-block">
                                 <img src="assets/images/service-icon4.png" alt="service-icon4">
                             </figure>
-                            <h4>Restorative Dentistry</h4>
-                            <p>Muis aute irure dolor
-                                reprehenderit...</p>
+                            <h4>Odontopediatría</h4>
+                            <p>
+                                La mejor atención dental para los más pequeños.
+                            </p>
+                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="service-slider2 text-center">
+                            <figure class="d-inline-block">
+                                <img src="assets/images/service-icon1.png" alt="service-icon1">
+                            </figure>
+                            <h4>Odontología convencional</h4>
+                            <p>
+                                Soluciones dentales convencionales para una sonrisa extraordinaria.
+                            </p>
                             <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
@@ -201,20 +177,18 @@
 
                     </p>
                     <ul class="list-unstyled" data-aos="fade-up" data-aos-duration="700">
-                        <li class="position-relative"><i class="fas fa-check-circle"></i>Malesuada dictum neaue</li>
-                        <li class="position-relative"><i class="fas fa-check-circle"></i>Ralesuada dictum neaue</li>
-                        <li class="position-relative"><i class="fas fa-check-circle"></i>Duis aute irure ullamcoau</li>
-                        <li class="position-relative"><i class="fas fa-check-circle"></i>Nuis aute irure ullamcoau</li>
-                        <li class="position-relative"><i class="fas fa-check-circle"></i>Quaerat voluptatem enim</li>
-                        <li class="position-relative"><i class="fas fa-check-circle"></i>Tuaerat voluptatem enim</li>
+                        <li class="position-relative"><i class="fas fa-check-circle"></i>Tratamientos profesionales</li>
+                        <li class="position-relative"><i class="fas fa-check-circle"></i>Personal <br> certificado</li>
+                        <li class="position-relative"><i class="fas fa-check-circle"></i>Equipos modernos</li>
+                        <li class="position-relative"><i class="fas fa-check-circle"></i>Precios definidos</li>
                     </ul>
                     <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
-                        <a href="about.html">Read More</a>
+                        <a href="tratamientos.php">Ver tratamientos</a>
                     </div>
                 </div>
                 <div class="index2-about-image-box position-relative" data-aos="fade-up" data-aos-duration="700">
                     <figure class="mb-0">
-                        <img src="assets/images/woman-dental-checkup.png" alt="woman-dental-checkup">
+                        <img src="assets/images/woman-dental-checkup.png?=1" alt="woman-dental-checkup">
                     </figure>
                     <figure class="about-absolute-img">
                         <img src="assets/images/dentist-report.png" alt="dentist-report">
@@ -290,13 +264,13 @@
                             <figure class="mb-0">
                                 <img src="assets/images/before-img1.jpg" alt="before-img1">
                             </figure>
-                            <h4>Before</h4>
+                            <h4>Antes</h4>
                         </div>
                         <div class="before-after-box position-relative">
                             <figure class="mb-0">
                                 <img src="assets/images/after-img1.jpg" alt="after-img1">
                             </figure>
-                            <h4>After</h4>
+                            <h4>Después</h4>
                         </div>
                     </div>
                 </div>
@@ -306,13 +280,13 @@
                             <figure class="mb-0">
                                 <img src="assets/images/before-img2.jpg" alt="before-img2">
                             </figure>
-                            <h4>Before</h4>
+                            <h4>Antes</h4>
                         </div>
                         <div class="before-after-box position-relative">
                             <figure class="mb-0">
                                 <img src="assets/images/after-img2.jpg" alt="after-img2">
                             </figure>
-                            <h4>After</h4>
+                            <h4>Después</h4>
                         </div>
                     </div>
                 </div>
@@ -322,13 +296,13 @@
                             <figure class="mb-0">
                                 <img src="assets/images/before-img1.jpg" alt="before-img1">
                             </figure>
-                            <h4>Before</h4>
+                            <h4>Antes</h4>
                         </div>
                         <div class="before-after-box position-relative">
                             <figure class="mb-0">
                                 <img src="assets/images/after-img1.jpg" alt="after-img1">
                             </figure>
-                            <h4>After</h4>
+                            <h4>Después</h4>
                         </div>
                     </div>
                 </div>
@@ -338,13 +312,13 @@
                             <figure class="mb-0">
                                 <img src="assets/images/before-img2.jpg" alt="before-img2">
                             </figure>
-                            <h4>Before</h4>
+                            <h4>Antes</h4>
                         </div>
                         <div class="before-after-box position-relative">
                             <figure class="mb-0">
                                 <img src="assets/images/after-img2.jpg" alt="after-img2">
                             </figure>
-                            <h4>After</h4>
+                            <h4>Después</h4>
                         </div>
                     </div>
                 </div>
@@ -354,13 +328,13 @@
                             <figure class="mb-0">
                                 <img src="assets/images/before-img1.jpg" alt="before-img1">
                             </figure>
-                            <h4>Before</h4>
+                            <h4>Antes</h4>
                         </div>
                         <div class="before-after-box position-relative">
                             <figure class="mb-0">
                                 <img src="assets/images/after-img1.jpg" alt="after-img1">
                             </figure>
-                            <h4>After</h4>
+                            <h4>Después</h4>
                         </div>
                     </div>
                 </div>
@@ -370,13 +344,13 @@
                             <figure class="mb-0">
                                 <img src="assets/images/before-img2.jpg" alt="before-img2">
                             </figure>
-                            <h4>Before</h4>
+                            <h4>Antes</h4>
                         </div>
                         <div class="before-after-box position-relative">
                             <figure class="mb-0">
                                 <img src="assets/images/after-img2.jpg" alt="after-img2">
                             </figure>
-                            <h4>After</h4>
+                            <h4>Después</h4>
                         </div>
                     </div>
                 </div>
@@ -390,13 +364,15 @@
             <div class="container">
                 <div class="inquiry-inner-sec">
                     <div class="inquiry-text-sec">
-                        <span class="d-block" data-aos="fade-up" data-aos-duration="700">Contamos con la mejor
-                            tecnología</span>
-                        <h2 data-aos="fade-up" data-aos-duration="700">Denttak</h2>
+                        <h3 style="color: #fff;" class="d-block" data-aos="fade-up" data-aos-duration="700">
+                            Así que ya sabes.
+                        </h3>
+                        <h2 hidden data-aos="fade-up" data-aos-duration="700">Denttak Clínica</h2>
                         <p data-aos="fade-up" data-aos-duration="700">
-                            En Denttak Clínica Dental te ofrecemos los
-                            mejores tratamientos de ortodoncia, como la ortodoncia
-                            invisible y la ortodoncia estética.
+                            Si deseas conseguir una sonrisa más sana y
+                            bonita, contacta con nosotros y te
+                            informaremos sobre las últimas técnicas de
+                            ortodoncia en <strong>Denttak</strong>
                         </p>
                         <div class="emergency-contact" data-aos="fade-up" data-aos-duration="700">
                             <i class="fas fa-phone-alt"></i>
@@ -418,12 +394,6 @@
                         <figure class="mb-0 inquiry-center-img">
                             <img src="assets/images/retractor-img.jpg" alt="retractor-img">
                         </figure>
-                        <div class="inquiry-bottom-box">
-                            <span class="d-block">Dentistas Profesionales</span>
-                            <figure class="mb-0">
-                                <img src="assets/images/graph-img.png" alt="graph-img">
-                            </figure>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -453,7 +423,7 @@
                             </figure>
                             <ul class="list-unstyled mb-0">
                                 <li><span class="d-block">Cliente 1</span></li>
-                                <li>Happy Patient</li>
+                                <li>Cliente satisfecho</li>
                             </ul>
                         </div>
                     </div>
@@ -473,7 +443,7 @@
                             </figure>
                             <ul class="list-unstyled mb-0">
                                 <li><span class="d-block">Cliente 2</span></li>
-                                <li>Happy Patient</li>
+                                <li>Cliente satisfecho</li>
                             </ul>
                         </div>
                     </div>
@@ -493,7 +463,7 @@
                             </figure>
                             <ul class="list-unstyled mb-0">
                                 <li><span class="d-block">Cliente 3</span></li>
-                                <li>Happy Patient</li>
+                                <li>Cliente satisfecho</li>
                             </ul>
                         </div>
                     </div>
@@ -513,7 +483,7 @@
                             </figure>
                             <ul class="list-unstyled mb-0">
                                 <li><span class="d-block">Cliente 4</span></li>
-                                <li>Happy Patient</li>
+                                <li>Cliente satisfecho</li>
                             </ul>
                         </div>
                     </div>
@@ -533,7 +503,7 @@
                             </figure>
                             <ul class="list-unstyled mb-0">
                                 <li><span class="d-block">Cliente 5</span></li>
-                                <li>Happy Patient</li>
+                                <li>Cliente satisfecho</li>
                             </ul>
                         </div>
                     </div>
@@ -553,7 +523,7 @@
                             </figure>
                             <ul class="list-unstyled mb-0">
                                 <li><span class="d-block">Cliente 6</span></li>
-                                <li>Happy Patient</li>
+                                <li>Cliente satisfecho</li>
                             </ul>
                         </div>
                     </div>
@@ -575,50 +545,44 @@
                         <figure class="mb-0">
                             <img src="assets/images/index2-blog-img1.jpg" alt="index2-blog-img1">
                         </figure>
-                        <div class="publish-date">22 <span class="d-block">March</span></div>
+                        <div class="publish-date">12 <span class="d-block">Diciembre</span></div>
                     </div>
                     <div class="blog-txt-con">
                         <a href="single-blog.html">
-                            <h4>Autem quibusdam aero
-                                officiis debitis </h4>
+                            <h4>¿Cómo cepillarte los dientes? </h4>
                         </a>
-                        <p>Debitis aut rerum nec sitatoe <br>
-                            bus saerue eveniet...</p>
-                        <a href="single-blog.html">Read More<i class="fas fa-angle-right"></i></a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi.</p>
+                        <a href="single-blog.html">Leer más<i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="index2-blog-box" data-aos="fade-up" data-aos-duration="700">
                     <div class="blog-top-image position-relative">
                         <figure class="mb-0">
-                            <img src="assets/images/index2-blog-img2.jpg" alt="index2-blog-img2">
+                            <img src="assets/images/index2-blog-img1.jpg" alt="index2-blog-img1">
                         </figure>
-                        <div class="publish-date">16 <span class="d-block">June</span></div>
+                        <div class="publish-date">12 <span class="d-block">Diciembre</span></div>
                     </div>
                     <div class="blog-txt-con">
                         <a href="single-blog.html">
-                            <h4>Consequatur aut perferendis
-                                doloribus aserio</h4>
+                            <h4>Dientes más blancos </h4>
                         </a>
-                        <p>Debitis aut rerum nec sitatoe <br>
-                            bus saerue eveniet...</p>
-                        <a href="single-blog.html">Read More<i class="fas fa-angle-right"></i></a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi.</p>
+                        <a href="single-blog.html">Leer más<i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="index2-blog-box" data-aos="fade-up" data-aos-duration="700">
                     <div class="blog-top-image position-relative">
                         <figure class="mb-0">
-                            <img src="assets/images/index2-blog-img3.jpg" alt="index2-blog-img3">
+                            <img src="assets/images/index2-blog-img1.jpg" alt="index2-blog-img1">
                         </figure>
-                        <div class="publish-date">09 <span class="d-block">April</span></div>
+                        <div class="publish-date">12 <span class="d-block">Diciembre</span></div>
                     </div>
                     <div class="blog-txt-con">
                         <a href="single-blog.html">
-                            <h4>Soluta nobis aes eligendi
-                                ortio cumaue</h4>
+                            <h4>Evita estas bebidas</h4>
                         </a>
-                        <p>Debitis aut rerum nec sitatoe <br>
-                            bus saerue eveniet...</p>
-                        <a href="single-blog.html">Read More<i class="fas fa-angle-right"></i></a>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi.</p>
+                        <a href="single-blog.html">Leer más<i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>
