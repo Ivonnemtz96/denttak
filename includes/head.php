@@ -18,7 +18,10 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="https://html.designingmedia.com/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-    <title>Medunit | Dentist</title>
+    <title>Denttak Clinica Dental</title>
+    <meta name="description"
+        content="En Denttak Clínica Dental es una marca cuidadora de sus clientes e innovadora. Desea hacer sentir a sus pacientes en un ambiente de confianza y seguros.">
+        <meta name="keywords" content="Denttak, clinica dental, dentistas, odontologo, ortodoncia, dentistas en los cabos, dr bertin moreno, tecnología dental, dentals, clinic, dentist">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
     <link rel="stylesheet" href="assets/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/aos.css">
