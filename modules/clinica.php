@@ -1,4 +1,5 @@
-<section class="sub-banner-section w-100 float-left d-flex align-items-center">
+<section class="sub-banner-section w-100 float-left d-flex align-items-center"
+    style="background-image: url(assets/images/16.jpg);">
     <div class="container">
         <div class="sub-banner-inner-con text-center">
             <h1 data-aos="fade-up" data-aos-duration="700">Denttak Clínica Dental</h1>
@@ -18,7 +19,7 @@
         <div class="about-inner-con">
             <div class="about-img-con">
                 <figure class="mb-0" data-aos="fade-up" data-aos-duration="700">
-                    <img src="assets/images/about-us-about-img.jpg" alt="about-us-about-img">
+                    <img src="assets/images/18.jpg" alt="Denttak">
                 </figure>
             </div>
             <div class="about-txt-con">
@@ -27,78 +28,69 @@
                     <h2 class="mb-0">Denttak Clínica Dental</h2>
                 </div>
                 <p data-aos="fade-up" data-aos-duration="700">
-                    La ortodoncia es uno de los métodos más populares
-                    para corregir los dientes y conseguir una sonrisa bella
-                    y armónica. Los tratamientos más conocidos son los
-                    que están compuestos de brackets (brackets
-                    metálicos, estéticos y autoligado). <br>
-                    Mediante la
-                    aplicación de fuerzas muy suaves a través de un arco,
-                    los brackets o aparatos fijos funcionan moviendo tus
-                    dientes lentamente hasta colocarlos en la posición
-                    final adecuada.
+                    Ahora, gracias a los últimos avances en estética
+                    dental, en Denttak Clínica Dental te ofrecemos los
+                    mejores <strong>tratamientos de ortodoncia</strong>, como la ortodoncia
+                    <b>invisible</b> y la ortodoncia estética. <br><br>
+                    Recuerda que <b>tener unos dientes bien colocados no es
+                        importante solo a nivel estético,</b> sino que también es
+                    básico para mejorar tu higiene dental, así como la
+                    masticación y oclusión de la boca, evitando otros
+                    problemas como el dolor en los maxilares, desgaste
+                    excesivo de los dientes o daños en la encía y demás
+                    tejidos periodontales.
                 </p>
+
                 <ul class="list-unstyled" data-aos="fade-up" data-aos-duration="700">
                     <li>Equipos Modernos</li>
                     <li>Personal Certificado</li>
                     <li>Años de experiencia</li>
                 </ul>
                 <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
-                    <a href="contacto.php">Agendar cita</a>
+                    <a href="tratamientos.php">Ver tratamientos</a>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<!-- CONTACT SECTION START -->
-<section id="index2-cntct" class="w-100 float-left index2-contact-sec contact-con position-relative">
-    <div class="padding-top padding-bottom contact-inner-con position-relative">
+<div class="inquiry-section w-100 float-left">
+    <div class="counter-outer-layer">
         <div class="container">
-            <div class="contact-form ">
-                <span class="sub-txt d-block" data-aos="fade-up" data-aos-duration="700">¡Agenda tu cita
-                    ahora!</span>
-                <h2 data-aos="fade-up" data-aos-duration="700">Denttak</h2>
-                <p data-aos="fade-up" data-aos-duration="700">Uno de nuestros asesores se pondrá en contacto contigo
-                </p>
-                <form class="form-box" method="post" id="contactpage">
-                    <ul class="list-unstyled ">
-                        <li data-aos="fade-up" data-aos-duration="700">
-                            <input type="text" name="fname" id="fname" placeholder="Nombre:">
-                            <i class="fas fa-user"></i>
-                        </li>
-                        <li data-aos="fade-up" data-aos-duration="700">
-                            <input type="text" name="fname" id="fname" placeholder="Apellido:">
-                            <i class="fas fa-user"></i>
-                        </li>
-                        <li data-aos="fade-up" data-aos-duration="700">
-                            <input type="email" placeholder="Correo:" name="email" id="email">
-                            <i class="fas fa-envelope"></i>
-                        </li>
-                        <li data-aos="fade-up" data-aos-duration="700">
-                            <input type="tel" name="phone" id="phone" placeholder="Teléfono">
-                            <i class="fas fa-phone-alt"></i>
-                        </li>
-                        <li data-aos="fade-up" data-aos-duration="700">
-                            <select name="department" id="department">
-                                <option value="department">Sucursal</option>
-                                <option value="department1">San José del Cabo</option>
-                                <option value="department2">Cabo San Lucas</option>
-                            </select>
-                        </li>
-                        <li data-aos="fade-up" data-aos-duration="700">
-                            <input placeholder="Date & Time" type="date" id="date">
-                        </li>
-
-                    </ul>
-                    <div class="submit-btn" data-aos="fade-up" data-aos-duration="700">
-                        <button type="submit" id="submit">
-                            Revisar disponibilidad
-                        </button>
+            <div class="inquiry-inner-sec">
+                <div class="inquiry-text-sec">
+                    <h3 style="color: #fff;" class="d-block" data-aos="fade-up" data-aos-duration="700">
+                        Así que ya sabes.
+                    </h3>
+                    <h2 hidden data-aos="fade-up" data-aos-duration="700">Denttak Clínica</h2>
+                    <p data-aos="fade-up" data-aos-duration="700">
+                        Si deseas conseguir una sonrisa más sana y
+                        bonita, contacta con nosotros y te
+                        informaremos sobre las últimas técnicas de
+                        ortodoncia en <strong>Denttak</strong>
+                    </p>
+                    <div class="emergency-contact" data-aos="fade-up" data-aos-duration="700">
+                        <i class="fas fa-phone-alt"></i>
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <h4>¿Tienes alguna duda o pregunta?</h4>
+                            </li>
+                            <li>Márcanos: <a href="tel:+526243581370">+52 624 358 1370</a></li>
+                        </ul>
                     </div>
-                </form>
+                </div>
+                <div class="inquiry-image-sec position-relative" data-aos="fade-up" data-aos-duration="700">
+                    <div class="inquiry-top-img">
+                        <figure>
+                            <img src="assets/images/trophy.png" alt="trophy">
+                        </figure>
+                        <p>Con más de <span class="d-inline-block">50</span> tratamientos realizados</p>
+                    </div>
+                    <figure class="mb-0 inquiry-center-img">
+                        <img src="assets/images/retractor-img.jpg" alt="retractor-img">
+                    </figure>
+                </div>
             </div>
         </div>
     </div>
-</section>
-<!-- CONTACT SECTION END -->
+</div>

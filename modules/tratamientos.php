@@ -1,4 +1,4 @@
-<section class="project-banner sub-banner-section w-100 float-left d-flex align-items-center">
+<section class="project-banner sub-banner-section w-100 float-left d-flex align-items-center" style="background-image: url(assets/images/14.jpg);">
     <div class="container">
         <div class="sub-banner-inner-con text-center">
             <h1 data-aos="fade-up" data-aos-duration="700">Tratamientos Dentales</h1>
@@ -23,104 +23,109 @@
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img1.jpg" alt="project-img1">
+                        <img src="assets/images/05.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Ortodoncia</h4>
                     <p>Conoce las diferencias de nuestro tratamiento</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img2.jpg" alt="project-img2">
+                        <img src="assets/images/06.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Estética Dental</h4>
                     <p>¿Quieres conocer más de este tratamiento?</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img3.jpg" alt="project-img3">
+                        <img src="assets/images/07.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Implantes Dentales</h4>
                     <p>Tratamientos adaptados a tu necesidad.</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img4.jpg" alt="project-img4">
+                        <img src="assets/images/08.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Cirugía Oral</h4>
-                    <p>Nostrud exercitation
-                        aute irure...</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <p>
+                        Descubre la excelencia en cirugía oral para transformar tu salud bucal.
+                    </p>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img5.jpg" alt="project-img5">
+                        <img src="assets/images/09.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Protésis dentales</h4>
-                    <p>Gostrud exercitation
-                        aute irure...</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <p>
+                        Sonrisas completas con nuestras prótesis dentales.
+                    </p>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img6.jpg" alt="project-img6">
+                        <img src="assets/images/10.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Endodoncias</h4>
-                    <p>Eostrud exercitation
-                        aute irure...</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <p>
+                        Experticia y cuidado para tus dientes.
+                    </p>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img6.jpg" alt="project-img6">
+                        <img src="assets/images/11.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Periodoncia</h4>
-                    <p>Eostrud exercitation
-                        aute irure...</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <p>
+                        Sonrisas saludables comienzan aquí.
+                    </p>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img6.jpg" alt="project-img6">
+                        <img src="assets/images/12.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Odontopediatría</h4>
-                    <p>Eostrud exercitation
-                        aute irure...</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <p>
+                        Cuidado dental especializado para los más pequeños.
+                    </p>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 
@@ -128,14 +133,15 @@
             <div class="project-box" data-aos="fade-up" data-aos-duration="700">
                 <div class="project-img">
                     <figure class="mb-0">
-                        <img src="assets/images/project-img6.jpg" alt="project-img6">
+                        <img src="assets/images/13.jpg" alt="Denttak">
                     </figure>
                 </div>
                 <div class="project-detail">
                     <h4>Odontología Convencional</h4>
-                    <p>Eostrud exercitation
-                        aute irure...</p>
-                    <a href="#"><i class="fas fa-angle-right"></i></a>
+                    <p>
+                        Soluciones tradicionales para sonrisas extraordinarias.
+                    </p>
+                    <a href="tratamiento1.php"><i class="fas fa-angle-right"></i></a>
                 </div>
             </div>
 

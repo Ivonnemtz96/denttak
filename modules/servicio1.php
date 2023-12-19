@@ -1,15 +1,14 @@
 <!-- BANNER SECTION START -->
-<section class="service-banner sub-banner-section w-100 float-left d-flex align-items-center">
+<section class="service-banner sub-banner-section w-100 float-left d-flex align-items-center"
+    style="background-image: url(assets/images/04.jpg);">
     <div class="container">
         <div class="sub-banner-inner-con text-center">
-            <h1 data-aos="fade-up" data-aos-duration="700">Single Column</h1>
-            <p data-aos="fade-up" data-aos-duration="700">Boidunt eget semper nec ruam sed hendrerit morbi aeu feliseao
-                augue <br>
-                pellentesue veniam morbi acer.</p>
+            <h1 data-aos="fade-up" data-aos-duration="700">Ortodoncia</h1>
             <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-duration="700">
                 <ol class="breadcrumb d-inline-block mb-0">
-                    <li class="breadcrumb-item d-inline-block"><a href="index.html">Home</a></li>
-                    <li class="breadcrumb-item active text-white d-inline-block" aria-current="page">Blog</li>
+                    <li class="breadcrumb-item d-inline-block"><a href="index.php">Inicio</a></li>
+                    <li class="breadcrumb-item active text-white d-inline-block" aria-current="page">Tipos de
+                        tratamientos de ortodoncia</li>
                 </ol>
             </nav>
         </div>
@@ -17,209 +16,129 @@
 </section>
 <!-- BANNER SECTION END -->
 <!-- Single Blog -->
-<section class="singleblog-section blogpage-section">
-    <div class="container">
+<section class="singleblog-section blogpage-section" style="padding-top: 0px;">
+    <div class="container" style="background: #fbf7f3; padding: 30px;">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-md-6">
+                <p data-aos="fade-up" data-aos-duration="700">
+                    La ortodoncia es uno de los métodos más populares
+                    para corregir los dientes y conseguir una sonrisa bella
+                    y armónica. Los tratamientos más conocidos son los
+                    que están compuestos de brackets (brackets
+                    metálicos, estéticos y autoligado). <br>
+                    Mediante la
+                    aplicación de fuerzas muy suaves a través de un arco,
+                    los brackets o aparatos fijos funcionan moviendo tus
+                    dientes lentamente hasta colocarlos en la posición
+                    final adecuada.
+                </p>
+            </div>
+            <div class="col-md-6 text-center">
+                <img src="assets/images/20.jpg" style="height: 23rem;" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="container" style="margin-top: 3rem;">
         <div class="row">
             <div class="col-lg-8 col-md-12 col-sm-12 col-12">
                 <div class="main-box">
                     <figure class="image1" data-aos="fade-up" data-aos-duration="700">
-                        <img src="assets/images/singleblog-image1.jpg" alt="" class="img-fluid">
+                        <img src="assets/images/01.jpg" alt="" class="img-fluid">
                     </figure>
-                    <div class="content1" data-aos="fade-up" data-aos-duration="700">
-                        <h4>Why You Need Virtual Assistant for Your Company</h4>
-                        <i class="fa-solid fa-user"></i>
-                        <span class="text-size-14 text-mr">By : Admin</span>
-                        <i class="mb-0 calendar fa-solid fa-calendar-days"></i>
-                        <span class="mb-0 text-size-14">Dec 20,2022</span>
-                        <p class="text-size-14">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                            commodo consequat. Duis aute irure dolor in reprehenderit
-                            in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                            cupidatat non proident, sunt in culpa qui officia deserunt
-                            mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit
-                            voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae.</p>
-                    </div>
-                    <div class="content2" data-aos="fade-up" data-aos-duration="700">
-                        <figure class="singleblog-quoteimage">
-                            <img src="assets/images/singleblog-quoteimage.png" alt="" class="img-fluid">
-                        </figure>
-                        <p class="mb-0 text-white text-size-18">“Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fugiat nulla pariatur.xcepteur sint occaecat”</p>
-                    </div>
-                    <p class="text text-size-14">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-                        officia deserunt mollit anim id est laborum.
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                        laudantium, totam rem aperiam, eaque ipsa quae
-                        ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-                        ipsam voluptatem quia voluptas.
-                    </p>
-                    <div class="content3" data-aos="fade-up" data-aos-duration="700">
-                        <figure class="image1" data-aos="fade-up">
-                            <img src="assets/images/singleblog-image2.jpg" alt="" class="img-fluid">
-                        </figure>
-                        <p class="text text-size-14">Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                            qui officia deserunt mollit anim id est laborum.
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                            laudantium, totam rem aperiam, eaque ipsa quae
-                            ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo
-                            enim ipsam voluptatem quia voluptas.
+                    <div class="content1" data-aos="fade-up" data-aos-duration="700" style="margin-bottom: 5rem;">
+                        <h2>Ortodoncia interceptiva</h2>
+                        <span class="text-size-14 text-mr">(Aparatología ortopedica)</span>
+                        <p class="text-size-14">
+                            Aparatos utilizados en las primeras
+                            fases del tratamiento para corregir
+                            defectos como mordidas cruzadas,
+                            pequeños movimientos dentales y
+                            para corregir el crecimiento en
+                            casos de dentición mixta.
                         </p>
                     </div>
-                    <div class="content4" data-aos="fade-up" data-aos-duration="700">
-                        <div class="row">
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
-                                <div class="tag">
-                                    <h5>Releted Tags</h5>
-                                    <ul class="mb-0 list-unstyled ">
-                                        <li><a class="button text-decoration-none" href="services.html">Assistant</a>
-                                        </li>
-                                        <li><a class="button button2 text-decoration-none"
-                                                href="services.html">Advice</a></li>
-                                        <li><a class="button button3 text-decoration-none"
-                                                href="services.html">Virtual</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-md-6 col-sm-6 col-12">
-                                <div class="icon">
-                                    <h5>Social Share</h5>
-                                    <div class="social-icons position-absolute">
-                                        <ul class="mb-0 list-unstyled ">
-                                            <li><a href="https://www.linkedin.com/login" class="text-decoration-none"><i
-                                                        class="fa-brands fa-linkedin-in social-networks"></i></a>
-                                            </li>
-                                            <li><a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3Fnext%3D%252F%26__coig_login%3D1"
-                                                    class="text-decoration-none"><i
-                                                        class="fa-brands fa-instagram social-networks"></i></a></li>
-                                            <li><a href="https://www.facebook.com/login/"
-                                                    class="text-decoration-none"><i
-                                                        class="fa-brands fa-facebook-f social-networks"></i></a>
-                                            </li>
-                                            <li><a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"
-                                                    class="text-decoration-none"><i
-                                                        class="fa-brands fa-twitter social-networks"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <hr>
+
+                    <figure class="image1" data-aos="fade-up" data-aos-duration="700">
+                        <img src="assets/images/02.jpg" alt="" class="img-fluid">
+                    </figure>
+                    <div class="content1" data-aos="fade-up" data-aos-duration="700" style="margin-bottom: 5rem;">
+                        <h2>Ortodoncia Correctiva</h2>
+                        <span class="text-size-14 text-mr">(Aparatologia fija, brackets)</span>
+                        <p class="text-size-14">
+                            La aparatología fija implica el uso
+                            de dispositivos fijos, como brackets
+                            tradicionales metálicos, estéticos y/
+                            o de autoligado, que van adheridos
+                            a los dientes y los van desplazando
+                            hasta alcanzar su posición ideal.
+                        </p>
                     </div>
-                    <div class="content5" data-aos="fade-up" data-aos-duration="700">
-                        <figure class="singleblog-review1 mb-0">
-                            <img src="assets/images/singleblog-review1.png" alt="" class="img-fluid">
-                        </figure>
-                        <div class="content">
-                            <h4>Billy wallson</h4>
-                            <span class="text-size-16">Senior Director</span>
-                            <p class="text-size-14">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut ali,
-                            </p>
-                        </div>
-                    </div>
-                    <div class="content6" data-aos="fade-up" data-aos-duration="700">
-                        <h4>2 Comments</h4>
-                        <div class="comment">
-                            <div class="image" data-aos="flip-left"><img alt=""
-                                    src="assets/images/singleblog-review2.png" class="avatar"></div>
-                            <div class="content">
-                                <h5>Roseanne Williams</h5>
-                                <span class="text-size-14">Dec 29, 2022</span>
-                                <a class="reply text-decoration-none" href="#">Reply</a>
-                                <div class="text_holder">
-                                    <p class="text-size-14">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                        Ut enim ad minim veniam, quis nostrud exercitation.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="comment">
-                            <div class="image" data-aos="flip-left"><img alt=""
-                                    src="assets/images/singleblog-review3.png" class="avatar"></div>
-                            <div class="content">
-                                <h5>Samantha Nicolan</h5>
-                                <span class="text-size-14">Dec 29, 2022</span>
-                                <a class="reply text-decoration-none" href="#">Reply</a>
-                                <div class="text_holder">
-                                    <p class="text-size-14">Lorem ipsum dolor sit amet, consectetur adipisicing
-                                        elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                        Ut enim ad minim veniam, quis nostrud exercitation.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content7" data-aos="fade-up" data-aos-duration="700">
-                        <h4>Leave a Comment</h4>
-                        <form id="blogpage" method="POST">
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="form-group mb-0">
-                                        <textarea class="form_style" placeholder="Enter your comment here..." rows="3"
-                                            name="msg"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-12">
-                                    <div class="form-group mb-0">
-                                        <input type="text" class="form_style" placeholder="Your name" name="name">
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 col-12">
-                                    <div class="form-group mb-0">
-                                        <input type="email" class="form_style" placeholder="Your e-mail" name="emailid">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-12">
-                                    <div class="form-group mb-0">
-                                        <input type="text" class="form_style text-mb" placeholder="Your topic"
-                                            name="topic">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="button text-center">
-                                <button type="submit" class="post_comment">Post Comment</button>
-                            </div>
-                        </form>
+
+                    <hr>
+
+
+
+
+                    <figure class="image1" data-aos="fade-up" data-aos-duration="700">
+                        <img src="assets/images/03.jpg" alt="" class="img-fluid">
+                    </figure>
+                    <div class="content1" data-aos="fade-up" data-aos-duration="700" style="margin-bottom: 5rem;">
+                        <h2>Ortodoncia invisible</h2>
+                        <span class="text-size-14 text-mr">(Alineadores)</span>
+                        <p class="text-size-14">
+                            Férulas transparentes, extraíbles e
+                            invisibles. Muy cómodas y estéticas.
+                            Sus principales ventajas no solo
+                            residen en el plano estético, ya que
+                            son muy cómodas a la hora de
+                            comer y cepillarse los dientes
+                            gracias a su carácter extraíble.
+                        </p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 col-sm-12 col-12 column">
                 <div class="box1" data-aos="fade-up" data-aos-duration="700">
-                    <h5>Search News</h5>
+                    <h5>Contáctanos</h5>
                     <form method="POST">
                         <div class="form-row">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <input type="text" name="search" id="search" class="form-control upper_layer"
-                                    placeholder="Search Here...">
-                                <div class="input-group-append form-button">
-                                    <button class="btn search" name="btnsearch" id="searchbtn"><i
-                                            class="fa-solid fa-magnifying-glass"></i></button>
-                                </div>
+                                <ul class="list-unstyled ">
+                                    <li style="margin-bottom: 1.5rem;" data-aos="fade-up" data-aos-duration="700">
+                                        <input type="text" name="fname" id="fname" placeholder="Nombre:">
+                                    </li>
+                                    <li style="margin-bottom: 1.5rem;" data-aos="fade-up" data-aos-duration="700">
+                                        <input type="email" placeholder="Correo:" name="email" id="email">
+                                    </li>
+                                    <li style="margin-bottom: 1.5rem;" data-aos="fade-up" data-aos-duration="700">
+                                        <input type="tel" name="phone" id="phone" placeholder="Teléfono:">
+                                    </li>
+                                    <li style="margin-bottom: 1.5rem;" data-aos="fade-up" data-aos-duration="700">
+                                        <input placeholder="Mensaje" name="subject" id="subject"></input>
+                                    </li>
+                                </ul>
+                                <button type="submit" id="submit"
+                                    style="background: var(--accent);border-radius: 8px;color: var(--primary-color);width: 140px; height: 56px; border: 1px solid var(--accent);">
+                                    Enviar
+                                </button>
                             </div>
                         </div>
                     </form>
                 </div>
                 <div class="box1 box2" data-aos="fade-up" data-aos-duration="700">
-                    <h5>Popular Category</h5>
+                    <h2>Más tratamientos</h2>
                     <ul class="list-unstyled mb-0">
-                        <li class="text-size-16"><a href="three-colum-sidbar.html">Digital business</a></li>
-                        <li class="text-size-16"><a href="three-colum-sidbar.html">Business Consulting</a></li>
-                        <li class="text-size-16"><a href="three-colum-sidbar.html">Consulting</a></li>
-                        <li class="mb-0 text-size-16"><a href="three-colum-sidbar.html">Business & Finance</a></li>
+                        <li class="text-size-16"><a href="#">Estética Dental</a></li>
+                        <li class="text-size-16"><a href="#">Implantes dentales</a></li>
+                        <li class="text-size-16"><a href="#">Cirugía oral</a></li>
                     </ul>
                 </div>
                 <div class="box1 box3" data-aos="fade-up" data-aos-duration="700">
                     <h5>Follow Us</h5>
                     <div class="social-icons">
                         <ul class="mb-0 list-unstyled ">
-                            <li><a href="https://www.linkedin.com/login" class="text-decoration-none"><i
+                            <li><a href="https://www.linkedin.com/" class="text-decoration-none"><i
                                         class="fa-brands fa-linkedin-in social-networks"></i></a>
                             </li>
                             <li><a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3Fnext%3D%252F%26__coig_login%3D1"
@@ -234,51 +153,90 @@
                         </ul>
                     </div>
                 </div>
-                <div class="box1 box4" data-aos="fade-up" data-aos-duration="700">
-                    <h5>Tags</h5>
-                    <ul class="tag mb-0 list-unstyled">
-                        <li><a class="button text-decoration-none" href="services.html">Assistant</a></li>
-                        <li><a class="button button2 text-decoration-none" href="services.html">Advice</a></li>
-                        <li><a class="button button3 text-decoration-none" href="services.html">Virtual</a></li>
-                        <li><a class="button button4 text-decoration-none" href="services.html">Designer</a></li>
-                        <li><a class="button button5 text-decoration-none" href="services.html">Blog</a></li>
-                        <li><a class="button button6 text-decoration-none" href="services.html">Support</a></li>
-                        <li><a class="button button7 text-decoration-none" href="services.html">Finance</a></li>
-                        <li><a class="button button8 text-decoration-none" href="services.html">Projects</a></li>
-                    </ul>
-                </div>
-                <div class="box1 box5" data-aos="fade-up" data-aos-duration="700">
-                    <h5>Feeds</h5>
-                    <div class="feed">
-                        <figure class="feed-image mb-0" data-aos="fade-up">
-                            <img src="assets/images/singleblog-feed1.jpg" alt="" class="img-fluid">
-                        </figure>
-                        <a href="six-colum-full-wide.html" class="mb-0">Why You Need Virtual Assistant for Your
-                            Company</a>
-                    </div>
-                    <div class="feed">
-                        <figure class="feed-image mb-0" data-aos="fade-up">
-                            <img src="assets/images/singleblog-feed2.jpg" alt="" class="img-fluid">
-                        </figure>
-                        <a href="six-colum-full-wide.html" class="mb-0">Why You Need Virtual Assistant for Your
-                            Company</a>
-                    </div>
-                    <div class="feed">
-                        <figure class="feed-image mb-0" data-aos="fade-up">
-                            <img src="assets/images/singleblog-feed3.jpg" alt="" class="img-fluid">
-                        </figure>
-                        <a href="six-colum-full-wide.html" class="mb-0">Why You Need Virtual Assistant for Your
-                            Company</a>
-                    </div>
-                    <div class="feed feed4">
-                        <figure class="feed-image mb-0" data-aos="fade-up">
-                            <img src="assets/images/singleblog-feed4.jpg" alt="" class="img-fluid">
-                        </figure>
-                        <a href="six-colum-full-wide.html" class="mb-0">Why You Need Virtual Assistant for Your
-                            Company</a>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
 </section>
+
+<section class="index2-about-section padding-top padding-bottom w-100 float-left position-relative light-bg"
+    style="background-color: #fff;">
+    <div class="container">
+        <div class="index2-about-con">
+            <div class="index2-about-txt-con">
+                <div class="generic-title">
+                    <h2 data-aos="fade-up" data-aos-duration="700">
+                        ¿Cuánto tiempo dura el tratamiento de ortodoncia?
+                    </h2>
+                </div>
+                <p data-aos="fade-up" data-aos-duration="700">
+                    Por norma general, en la actualidad los tratamientos de ortodoncia completos (arcada superior e
+                    inferior) tienen una duración de entre 12 y 24 meses, aunque existen casos excepcionales en los que
+                    la duración puede ser algo mayor, llegando a los 36 meses. Esto dependerá de cada caso y
+                    paciente. Los tratamientos de una sola arcada pueden tener una duración de entre 6 y 12 meses.
+                </p>
+                <p>
+                    La indicación de la técnica correspondiente para
+                    cada paciente dependerá de factores clave como: <br>
+                    <b>Tipo de ortodoncia:</b> <br>
+                    <b>Edad del paciente:</b> A edades tempranas, entre los seis y los doce años aproximadamente, los
+                    tratamientos suelen tener una duración menor a la que tendrían en pacientes adultos
+                    certificado <br>
+                    <b>Grado del problema</b> <br>
+                    <b>Colaboración del paciente</b>
+                </p>
+                <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
+                    <a href="contact.php">Contactar</a>
+                </div>
+            </div>
+            <div class="index2-about-image-box position-relative" data-aos="fade-up" data-aos-duration="700">
+                <figure class="mb-0">
+                    <img src="assets/images/woman-dental-checkup.png?=1" alt="woman-dental-checkup">
+                </figure>
+                <figure class="about-absolute-img">
+                    <img src="assets/images/dentist-report.png" alt="dentist-report">
+                </figure>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="inquiry-section w-100 float-left">
+    <div class="counter-outer-layer">
+        <div class="container">
+            <div class="inquiry-inner-sec">
+                <div class="inquiry-text-sec">
+                    <h3 style="color: #fff;" class="d-block" data-aos="fade-up" data-aos-duration="700">
+                        Así que ya sabes.
+                    </h3>
+                    <h2 hidden data-aos="fade-up" data-aos-duration="700">Denttak Clínica</h2>
+                    <p data-aos="fade-up" data-aos-duration="700">
+                        Si deseas conseguir una sonrisa más sana y
+                        bonita, contacta con nosotros y te
+                        informaremos sobre las últimas técnicas de
+                        ortodoncia en <strong>Denttak</strong>
+                    </p>
+                    <div class="emergency-contact" data-aos="fade-up" data-aos-duration="700">
+                        <i class="fas fa-phone-alt"></i>
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <h4>¿Tienes alguna duda o pregunta?</h4>
+                            </li>
+                            <li>Márcanos: <a href="tel:+526243581370">+52 624 358 1370</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="inquiry-image-sec position-relative" data-aos="fade-up" data-aos-duration="700">
+                    <div class="inquiry-top-img">
+                        <figure>
+                            <img src="assets/images/trophy.png" alt="trophy">
+                        </figure>
+                        <p>Con más de <span class="d-inline-block">50</span> tratamientos realizados</p>
+                    </div>
+                    <figure class="mb-0 inquiry-center-img">
+                        <img src="assets/images/retractor-img.jpg" alt="retractor-img">
+                    </figure>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

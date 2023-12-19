@@ -10,7 +10,7 @@
                         Expertos en el cuidado dental con la mejor tecnología en nuestros tratamientos.
                     </p>
                     <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
-                        <a href="contact.html">Agendar una cita</a>
+                        <a href="contacto.php">Agendar una cita</a>
                     </div>
                 </div>
                 <div class="social-links">
@@ -26,7 +26,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="btn-outer-box">
+                <div hidden class="btn-outer-box">
                     <div class="top-to-bottom-btn">
                         <a href="#index2-cntct">
                             <figure class="mb-0">
@@ -57,7 +57,7 @@
                             <p>
                                 Transforma tu sonrisa con nuestro experto servicio de ortodoncia.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -69,7 +69,7 @@
                             <p>
                                 Recupera tu sonrisa con nuestros implantes dentales.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -81,7 +81,7 @@
                             <p>
                                 Potencia tu sonrisa con nuestra estética dental de calidad.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -93,7 +93,7 @@
                             <p>
                                 Opta por la excelencia en cirugía oral con nuestro experimentado equipo.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -105,7 +105,7 @@
                             <p>
                                 Recupera tu sonrisa completa con nuestras prótesis dentales personalizadas.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -117,7 +117,7 @@
                             <p>
                                 Salva tu sonrisa con nuestros tratamientos de endodoncia.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -129,7 +129,7 @@
                             <p>
                                 Transforma tu salud bucal con nuestros servicios.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -141,7 +141,7 @@
                             <p>
                                 La mejor atención dental para los más pequeños.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                     <div class="item">
@@ -153,7 +153,7 @@
                             <p>
                                 Soluciones dentales convencionales para una sonrisa extraordinaria.
                             </p>
-                            <a href="services.html">Leer más<i class="fas fa-angle-right"></i></a>
+                            <a href="tratamientos.php">Leer más<i class="fas fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                         <li class="position-relative"><i class="fas fa-check-circle"></i>Precios definidos</li>
                     </ul>
                     <div class="generic-btn" data-aos="fade-up" data-aos-duration="700">
-                        <a href="tratamientos.php">Ver tratamientos</a>
+                        <a href="clinica.php">Ver más de Denttak</a>
                     </div>
                 </div>
                 <div class="index2-about-image-box position-relative" data-aos="fade-up" data-aos-duration="700">
@@ -548,11 +548,11 @@
                         <div class="publish-date">12 <span class="d-block">Diciembre</span></div>
                     </div>
                     <div class="blog-txt-con">
-                        <a href="single-blog.html">
+                        <a href="#">
                             <h4>¿Cómo cepillarte los dientes? </h4>
                         </a>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi.</p>
-                        <a href="single-blog.html">Leer más<i class="fas fa-angle-right"></i></a>
+                        <a href="#">Leer más<i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="index2-blog-box" data-aos="fade-up" data-aos-duration="700">
@@ -563,11 +563,11 @@
                         <div class="publish-date">12 <span class="d-block">Diciembre</span></div>
                     </div>
                     <div class="blog-txt-con">
-                        <a href="single-blog.html">
+                        <a href="#">
                             <h4>Dientes más blancos </h4>
                         </a>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi.</p>
-                        <a href="single-blog.html">Leer más<i class="fas fa-angle-right"></i></a>
+                        <a href="#">Leer más<i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
                 <div class="index2-blog-box" data-aos="fade-up" data-aos-duration="700">
@@ -578,11 +578,11 @@
                         <div class="publish-date">12 <span class="d-block">Diciembre</span></div>
                     </div>
                     <div class="blog-txt-con">
-                        <a href="single-blog.html">
+                        <a href="#">
                             <h4>Evita estas bebidas</h4>
                         </a>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi.</p>
-                        <a href="single-blog.html">Leer más<i class="fas fa-angle-right"></i></a>
+                        <a href="#">Leer más<i class="fas fa-angle-right"></i></a>
                     </div>
                 </div>
             </div>

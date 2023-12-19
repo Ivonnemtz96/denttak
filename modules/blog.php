@@ -1,4 +1,4 @@
-<section class="service-banner sub-banner-section w-100 float-left d-flex align-items-center">
+<section class="service-banner sub-banner-section w-100 float-left d-flex align-items-center" style="background-image: url(assets/images/19.jpg);">
     <div class="container">
         <div class="sub-banner-inner-con text-center">
             <h1 data-aos="fade-up" data-aos-duration="700">Blog</h1>
@@ -23,7 +23,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="blog-box blog-box1">
                             <figure class="blog-image mb-0">
-                                <img src="assets/images/blog-image1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/blog-image1.jpg?=1" alt="" class="img-fluid">
                             </figure>
                             <div class="lower-portion">
                                 <i class="fa-solid fa-user"></i>
@@ -36,7 +36,7 @@
                                     <span class="mb-0 text-size-14">20 Dic,2023</span>
                                 </div>
                                 <div class="button">
-                                    <a class="mb-0 read_more text-decoration-none" href="single-blog.html">Ver más</a>
+                                    <a class="mb-0 read_more text-decoration-none" href="#">Ver más</a>
                                 </div>
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="blog-box blog-box1">
                             <figure class="blog-image mb-0">
-                                <img src="assets/images/blog-image1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/blog-image1.jpg?=1" alt="" class="img-fluid">
                             </figure>
                             <div class="lower-portion">
                                 <i class="fa-solid fa-user"></i>
@@ -57,7 +57,7 @@
                                     <span class="mb-0 text-size-14">20 Dic,2023</span>
                                 </div>
                                 <div class="button">
-                                    <a class="mb-0 read_more text-decoration-none" href="single-blog.html">Ver más</a>
+                                    <a class="mb-0 read_more text-decoration-none" href="#">Ver más</a>
                                 </div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="blog-box blog-box1">
                             <figure class="blog-image mb-0">
-                                <img src="assets/images/blog-image1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/blog-image1.jpg?=1" alt="" class="img-fluid">
                             </figure>
                             <div class="lower-portion">
                                 <i class="fa-solid fa-user"></i>
@@ -78,7 +78,7 @@
                                     <span class="mb-0 text-size-14">20 Dic,2023</span>
                                 </div>
                                 <div class="button">
-                                    <a class="mb-0 read_more text-decoration-none" href="single-blog.html">Ver más</a>
+                                    <a class="mb-0 read_more text-decoration-none" href="#">Ver más</a>
                                 </div>
                             </div>
                         </div>
@@ -87,7 +87,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="blog-box blog-box1">
                             <figure class="blog-image mb-0">
-                                <img src="assets/images/blog-image1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/blog-image1.jpg?=1" alt="" class="img-fluid">
                             </figure>
                             <div class="lower-portion">
                                 <i class="fa-solid fa-user"></i>
@@ -100,7 +100,7 @@
                                     <span class="mb-0 text-size-14">20 Dic,2023</span>
                                 </div>
                                 <div class="button">
-                                    <a class="mb-0 read_more text-decoration-none" href="single-blog.html">Ver más</a>
+                                    <a class="mb-0 read_more text-decoration-none" href="#">Ver más</a>
                                 </div>
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="blog-box blog-box1">
                             <figure class="blog-image mb-0">
-                                <img src="assets/images/blog-image1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/blog-image1.jpg?=1" alt="" class="img-fluid">
                             </figure>
                             <div class="lower-portion">
                                 <i class="fa-solid fa-user"></i>
@@ -122,7 +122,7 @@
                                     <span class="mb-0 text-size-14">20 Dic,2023</span>
                                 </div>
                                 <div class="button">
-                                    <a class="mb-0 read_more text-decoration-none" href="single-blog.html">Ver más</a>
+                                    <a class="mb-0 read_more text-decoration-none" href="#">Ver más</a>
                                 </div>
                             </div>
                         </div>
@@ -131,7 +131,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-duration="700">
                         <div class="blog-box blog-box1">
                             <figure class="blog-image mb-0">
-                                <img src="assets/images/blog-image1.jpg" alt="" class="img-fluid">
+                                <img src="assets/images/blog-image1.jpg?=1" alt="" class="img-fluid">
                             </figure>
                             <div class="lower-portion">
                                 <i class="fa-solid fa-user"></i>
@@ -144,7 +144,7 @@
                                     <span class="mb-0 text-size-14">20 Dic,2023</span>
                                 </div>
                                 <div class="button">
-                                    <a class="mb-0 read_more text-decoration-none" href="single-blog.html">Ver más</a>
+                                    <a class="mb-0 read_more text-decoration-none" href="#">Ver más</a>
                                 </div>
                             </div>
                         </div>

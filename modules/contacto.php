@@ -1,4 +1,4 @@
-<section class="service-banner sub-banner-section w-100 float-left d-flex align-items-center">
+<section class="service-banner sub-banner-section w-100 float-left d-flex align-items-center" style="background-image: url(assets/images/15.jpg);">
     <div class="container">
         <div class="sub-banner-inner-con text-center">
             <h1 data-aos="fade-up" data-aos-duration="700">Contáctanos</h1>
@@ -23,8 +23,9 @@
                     </figure>
                     <div class="contact-txt">
                         <h4>Dirección:</h4>
-                        <p class="mb-0">121 King Street, Melbourne
-                            Victoria 3000 Australia</p>
+                        <p class="mb-0">
+                        C. Francisco Fisher Maurino 1602 Col, El Zacatal, 23427 San José del Cabo.
+                        </p>
                     </div>
                 </div>
                 <div class="contact-detail" data-aos="fade-up" data-aos-duration="700">
