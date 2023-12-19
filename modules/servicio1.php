@@ -138,16 +138,16 @@
                     <h5>Follow Us</h5>
                     <div class="social-icons">
                         <ul class="mb-0 list-unstyled ">
-                            <li><a href="https://www.linkedin.com/" class="text-decoration-none"><i
+                            <li><a href="#" class="text-decoration-none"><i
                                         class="fa-brands fa-linkedin-in social-networks"></i></a>
                             </li>
-                            <li><a href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3Fnext%3D%252F%26__coig_login%3D1"
+                            <li><a target="_blank" href="https://www.instagram.com/denttak.mx/"
                                     class="text-decoration-none"><i
                                         class="fa-brands fa-instagram social-networks"></i></a></li>
-                            <li><a href="https://www.facebook.com/login/" class="text-decoration-none"><i
+                            <li><a target="_blank" href="https://www.facebook.com/Denttak.mx/" class="text-decoration-none"><i
                                         class="fa-brands fa-facebook-f social-networks"></i></a>
                             </li>
-                            <li><a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"
+                            <li><a href="#"
                                     class="text-decoration-none"><i
                                         class="fa-brands fa-twitter social-networks"></i></a></li>
                         </ul>

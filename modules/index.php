@@ -15,13 +15,10 @@
                 </div>
                 <div class="social-links">
                     <ul class="list-unstyled mb-0" data-aos="fade-up" data-aos-duration="700">
-                        <li><a href="https://www.facebook.com/login/"><i class="fab fa-facebook-f"></i></a>
+                        <li><a target="_blank" href="https://www.facebook.com/Denttak.mx/o"><i class="fab fa-facebook-f"></i></a>
                         </li>
-                        <li><a
-                                href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoiZW4ifQ%3D%3D%22%7D"><i
-                                    class="fab fa-twitter"></i></a></li>
                         <li class="mb-0"><a
-                                href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Faccounts%2Fonetap%2F%3Fnext%3D%252F%26__coig_login%3D1"><i
+                                target="_blank" href="https://www.instagram.com/denttak.mx/"><i
                                     class="fab fa-instagram"></i></a>
                         </li>
                     </ul>
